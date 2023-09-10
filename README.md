@@ -101,28 +101,108 @@
 <td><a href="https://github.com/ellisonleao/gruvbox.nvim">gruvbox.nvim</a></td>
 <td><img style="float:left" height="25px" src="https://camo.githubusercontent.com/e79fd5f7f08b82460cde9db164cfcabce66168958c5b89b7c3041ca87600276c/68747470733a2f2f692e706f7374696d672e63632f5770517a677856682f706c7567696e2d49636f6e2e706e67" alt="gruvbox.nvim"></td>
 </tr>
+
+
+<tr>
+<td><a href="https://github.com/metacontroller/metacontroller/pull/547"><img alt="547"  height="25px" src="https://img.shields.io/badge/cicd(helm)%3A%20Use%20dev%20image%20for%20chart%20testing-070707?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iLTMgLTMgMjIgMjIiPjxnIGlkPSJkZWVkaXRvcl9iZ0NhcnJpZXIiIHN0cm9rZS13aWR0aD0iMCI%2BCiAgICA8cmVjdCBpZD0iZGVlX2NfZSIgeD0iLTMiIHk9Ii0zIiB3aWR0aD0iMjIiIGhlaWdodD0iMjIiIHJ4PSIwIiBmaWxsPSIjYTM3MWY3IiBzdHJva2V3aWR0aD0iMCIvPgogIDwvZz48cGF0aCBkPSJNNS40NSA1LjE1NEE0LjI1IDQuMjUgMCAwIDAgOS4yNSA3LjVoMS4zNzhhMi4yNTEgMi4yNTEgMCAxIDEgMCAxLjVIOS4yNUE1LjczNCA1LjczNCAwIDAgMSA1IDcuMTIzdjMuNTA1YTIuMjUgMi4yNSAwIDEgMS0xLjUgMFY1LjM3MmEyLjI1IDIuMjUgMCAxIDEgMS45NS0uMjE4Wk00LjI1IDEzLjVhLjc1Ljc1IDAgMSAwIDAtMS41Ljc1Ljc1IDAgMCAwIDAgMS41Wm04LjUtNC41YS43NS43NSAwIDEgMCAwLTEuNS43NS43NSAwIDAgMCAwIDEuNVpNNSAzLjI1YS43NS43NSAwIDEgMCAwIC4wMDVWMy4yNVoiIGZpbGw9IiNmZmZmZmYiLz48L3N2Zz4%3D&label=%20&labelColor=a371f7&color=070707"><a/></td>
+<td><a href="https://github.com/metacontroller/metacontroller">Metacontroller<a/></td>
+<td></td>
+</tr>
+<tr>
+<td><a href="https://github.com/metacontroller/metacontroller/pull/546"><img alt="546"  height="25px" src="https://img.shields.io/badge/cicd%3A%20fix%20prometheus%20test%20flakiness-070707?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iLTMgLTMgMjIgMjIiPjxnIGlkPSJkZWVkaXRvcl9iZ0NhcnJpZXIiIHN0cm9rZS13aWR0aD0iMCI%2BCiAgICA8cmVjdCBpZD0iZGVlX2NfZSIgeD0iLTMiIHk9Ii0zIiB3aWR0aD0iMjIiIGhlaWdodD0iMjIiIHJ4PSIwIiBmaWxsPSIjYTM3MWY3IiBzdHJva2V3aWR0aD0iMCIvPgogIDwvZz48cGF0aCBkPSJNNS40NSA1LjE1NEE0LjI1IDQuMjUgMCAwIDAgOS4yNSA3LjVoMS4zNzhhMi4yNTEgMi4yNTEgMCAxIDEgMCAxLjVIOS4yNUE1LjczNCA1LjczNCAwIDAgMSA1IDcuMTIzdjMuNTA1YTIuMjUgMi4yNSAwIDEgMS0xLjUgMFY1LjM3MmEyLjI1IDIuMjUgMCAxIDEgMS45NS0uMjE4Wk00LjI1IDEzLjVhLjc1Ljc1IDAgMSAwIDAtMS41Ljc1Ljc1IDAgMCAwIDAgMS41Wm04LjUtNC41YS43NS43NSAwIDEgMCAwLTEuNS43NS43NSAwIDAgMCAwIDEuNVpNNSAzLjI1YS43NS43NSAwIDEgMCAwIC4wMDVWMy4yNVoiIGZpbGw9IiNmZmZmZmYiLz48L3N2Zz4%3D&label=%20&labelColor=a371f7&color=070707"><a/></td>
+<td><a href="https://github.com/metacontroller/metacontroller">Metacontroller<a/></td>
+<td></td>
+</tr>
+<tr>
+<td><a href="https://github.com/metacontroller/metacontroller/pull/534"><img alt="534"  height="25px" src="https://img.shields.io/badge/feat(Dockerfile)%3A%20Run%20apline%20images%20as%20nonroot%20user-070707?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iLTMgLTMgMjIgMjIiPjxnIGlkPSJkZWVkaXRvcl9iZ0NhcnJpZXIiIHN0cm9rZS13aWR0aD0iMCI%2BCiAgICA8cmVjdCBpZD0iZGVlX2NfZSIgeD0iLTMiIHk9Ii0zIiB3aWR0aD0iMjIiIGhlaWdodD0iMjIiIHJ4PSIwIiBmaWxsPSIjYTM3MWY3IiBzdHJva2V3aWR0aD0iMCIvPgogIDwvZz48cGF0aCBkPSJNNS40NSA1LjE1NEE0LjI1IDQuMjUgMCAwIDAgOS4yNSA3LjVoMS4zNzhhMi4yNTEgMi4yNTEgMCAxIDEgMCAxLjVIOS4yNUE1LjczNCA1LjczNCAwIDAgMSA1IDcuMTIzdjMuNTA1YTIuMjUgMi4yNSAwIDEgMS0xLjUgMFY1LjM3MmEyLjI1IDIuMjUgMCAxIDEgMS45NS0uMjE4Wk00LjI1IDEzLjVhLjc1Ljc1IDAgMSAwIDAtMS41Ljc1Ljc1IDAgMCAwIDAgMS41Wm04LjUtNC41YS43NS43NSAwIDEgMCAwLTEuNS43NS43NSAwIDAgMCAwIDEuNVpNNSAzLjI1YS43NS43NSAwIDEgMCAwIC4wMDVWMy4yNVoiIGZpbGw9IiNmZmZmZmYiLz48L3N2Zz4%3D&label=%20&labelColor=a371f7&color=070707"><a/></td>
+<td><a href="https://github.com/metacontroller/metacontroller">Metacontroller<a/></td>
+<td></td>
+</tr>
+<tr>
+
+<td><a href="https://github.com/metacontroller/metacontroller/pull/531"><img alt="531"  height="25px" src="https://img.shields.io/badge/feat(helm)%3A%20Add%20service%20to%20chart%20and%20prometheus%20examples-070707?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iLTMgLTMgMjIgMjIiPjxnIGlkPSJkZWVkaXRvcl9iZ0NhcnJpZXIiIHN0cm9rZS13aWR0aD0iMCI%2BCiAgICA8cmVjdCBpZD0iZGVlX2NfZSIgeD0iLTMiIHk9Ii0zIiB3aWR0aD0iMjIiIGhlaWdodD0iMjIiIHJ4PSIwIiBmaWxsPSIjYTM3MWY3IiBzdHJva2V3aWR0aD0iMCIvPgogIDwvZz48cGF0aCBkPSJNNS40NSA1LjE1NEE0LjI1IDQuMjUgMCAwIDAgOS4yNSA3LjVoMS4zNzhhMi4yNTEgMi4yNTEgMCAxIDEgMCAxLjVIOS4yNUE1LjczNCA1LjczNCAwIDAgMSA1IDcuMTIzdjMuNTA1YTIuMjUgMi4yNSAwIDEgMS0xLjUgMFY1LjM3MmEyLjI1IDIuMjUgMCAxIDEgMS45NS0uMjE4Wk00LjI1IDEzLjVhLjc1Ljc1IDAgMSAwIDAtMS41Ljc1Ljc1IDAgMCAwIDAgMS41Wm04LjUtNC41YS43NS43NSAwIDEgMCAwLTEuNS43NS43NSAwIDAgMCAwIDEuNVpNNSAzLjI1YS43NS43NSAwIDEgMCAwIC4wMDVWMy4yNVoiIGZpbGw9IiNmZmZmZmYiLz48L3N2Zz4%3D&label=%20&labelColor=a371f7&color=070707"><a/></td>
+<td><a href="https://github.com/metacontroller/metacontroller">Metacontroller<a/></td>
+<td></td>
+</tr>
+<tr>
+
+<td><a href="https://github.com/metacontroller/metacontroller/pull/484"><img alt="484"  height="25px" src="https://img.shields.io/badge/feat(helm)%3A%20Use%20commandArgs%20for%20all%20command%20arguments%20and%20add%20dlv%20debug%20helm%20test-070707?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iLTMgLTMgMjIgMjIiPjxnIGlkPSJkZWVkaXRvcl9iZ0NhcnJpZXIiIHN0cm9rZS13aWR0aD0iMCI%2BCiAgICA8cmVjdCBpZD0iZGVlX2NfZSIgeD0iLTMiIHk9Ii0zIiB3aWR0aD0iMjIiIGhlaWdodD0iMjIiIHJ4PSIwIiBmaWxsPSIjYTM3MWY3IiBzdHJva2V3aWR0aD0iMCIvPgogIDwvZz48cGF0aCBkPSJNNS40NSA1LjE1NEE0LjI1IDQuMjUgMCAwIDAgOS4yNSA3LjVoMS4zNzhhMi4yNTEgMi4yNTEgMCAxIDEgMCAxLjVIOS4yNUE1LjczNCA1LjczNCAwIDAgMSA1IDcuMTIzdjMuNTA1YTIuMjUgMi4yNSAwIDEgMS0xLjUgMFY1LjM3MmEyLjI1IDIuMjUgMCAxIDEgMS45NS0uMjE4Wk00LjI1IDEzLjVhLjc1Ljc1IDAgMSAwIDAtMS41Ljc1Ljc1IDAgMCAwIDAgMS41Wm04LjUtNC41YS43NS43NSAwIDEgMCAwLTEuNS43NS43NSAwIDAgMCAwIDEuNVpNNSAzLjI1YS43NS43NSAwIDEgMCAwIC4wMDVWMy4yNVoiIGZpbGw9IiNmZmZmZmYiLz48L3N2Zz4%3D&label=%20&labelColor=a371f7&color=070707"><a/></td>
+<td><a href="https://github.com/metacontroller/metacontroller">Metacontroller<a/></td>
+<td></td>
+</tr>
+<tr>
+
+<td><a href="https://github.com/metacontroller/metacontroller/pull/483"><img alt="483"  height="25px" src="https://img.shields.io/badge/test(helm)%3A%20Add%20test%20for%20leader%20election%20-070707?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iLTMgLTMgMjIgMjIiPjxnIGlkPSJkZWVkaXRvcl9iZ0NhcnJpZXIiIHN0cm9rZS13aWR0aD0iMCI%2BCiAgICA8cmVjdCBpZD0iZGVlX2NfZSIgeD0iLTMiIHk9Ii0zIiB3aWR0aD0iMjIiIGhlaWdodD0iMjIiIHJ4PSIwIiBmaWxsPSIjYTM3MWY3IiBzdHJva2V3aWR0aD0iMCIvPgogIDwvZz48cGF0aCBkPSJNNS40NSA1LjE1NEE0LjI1IDQuMjUgMCAwIDAgOS4yNSA3LjVoMS4zNzhhMi4yNTEgMi4yNTEgMCAxIDEgMCAxLjVIOS4yNUE1LjczNCA1LjczNCAwIDAgMSA1IDcuMTIzdjMuNTA1YTIuMjUgMi4yNSAwIDEgMS0xLjUgMFY1LjM3MmEyLjI1IDIuMjUgMCAxIDEgMS45NS0uMjE4Wk00LjI1IDEzLjVhLjc1Ljc1IDAgMSAwIDAtMS41Ljc1Ljc1IDAgMCAwIDAgMS41Wm04LjUtNC41YS43NS43NSAwIDEgMCAwLTEuNS43NS43NSAwIDAgMCAwIDEuNVpNNSAzLjI1YS43NS43NSAwIDEgMCAwIC4wMDVWMy4yNVoiIGZpbGw9IiNmZmZmZmYiLz48L3N2Zz4%3D&label=%20&labelColor=a371f7&color=070707"><a/></td>
+<td><a href="https://github.com/metacontroller/metacontroller">Metacontroller<a/></td>
+<td></td>
+</tr>
+<tr>
+
+<td><a href="https://github.com/metacontroller/metacontroller/pull/478"><img alt="478"  height="25px" src="https://img.shields.io/badge/feat(helm)%3A%20%23471%20--%20Expose%20rules%20and%20aggregateRule%20in%20ClusterRole-070707?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iLTMgLTMgMjIgMjIiPjxnIGlkPSJkZWVkaXRvcl9iZ0NhcnJpZXIiIHN0cm9rZS13aWR0aD0iMCI%2BCiAgICA8cmVjdCBpZD0iZGVlX2NfZSIgeD0iLTMiIHk9Ii0zIiB3aWR0aD0iMjIiIGhlaWdodD0iMjIiIHJ4PSIwIiBmaWxsPSIjYTM3MWY3IiBzdHJva2V3aWR0aD0iMCIvPgogIDwvZz48cGF0aCBkPSJNNS40NSA1LjE1NEE0LjI1IDQuMjUgMCAwIDAgOS4yNSA3LjVoMS4zNzhhMi4yNTEgMi4yNTEgMCAxIDEgMCAxLjVIOS4yNUE1LjczNCA1LjczNCAwIDAgMSA1IDcuMTIzdjMuNTA1YTIuMjUgMi4yNSAwIDEgMS0xLjUgMFY1LjM3MmEyLjI1IDIuMjUgMCAxIDEgMS45NS0uMjE4Wk00LjI1IDEzLjVhLjc1Ljc1IDAgMSAwIDAtMS41Ljc1Ljc1IDAgMCAwIDAgMS41Wm04LjUtNC41YS43NS43NSAwIDEgMCAwLTEuNS43NS43NSAwIDAgMCAwIDEuNVpNNSAzLjI1YS43NS43NSAwIDEgMCAwIC4wMDVWMy4yNVoiIGZpbGw9IiNmZmZmZmYiLz48L3N2Zz4%3D&label=%20&labelColor=a371f7&color=070707"><a/></td>
+<td><a href="https://github.com/metacontroller/metacontroller">Metacontroller<a/></td>
+<td></td>
+</tr>
+<tr>
+<td><a href="https://github.com/metacontroller/metacontroller/pull/477"><img alt="477"  height="25px" src="https://img.shields.io/badge/feat%3A%20Add%20priorityClassName%20to%20helm%20chart-070707?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iLTMgLTMgMjIgMjIiPjxnIGlkPSJkZWVkaXRvcl9iZ0NhcnJpZXIiIHN0cm9rZS13aWR0aD0iMCI%2BCiAgICA8cmVjdCBpZD0iZGVlX2NfZSIgeD0iLTMiIHk9Ii0zIiB3aWR0aD0iMjIiIGhlaWdodD0iMjIiIHJ4PSIwIiBmaWxsPSIjYTM3MWY3IiBzdHJva2V3aWR0aD0iMCIvPgogIDwvZz48cGF0aCBkPSJNNS40NSA1LjE1NEE0LjI1IDQuMjUgMCAwIDAgOS4yNSA3LjVoMS4zNzhhMi4yNTEgMi4yNTEgMCAxIDEgMCAxLjVIOS4yNUE1LjczNCA1LjczNCAwIDAgMSA1IDcuMTIzdjMuNTA1YTIuMjUgMi4yNSAwIDEgMS0xLjUgMFY1LjM3MmEyLjI1IDIuMjUgMCAxIDEgMS45NS0uMjE4Wk00LjI1IDEzLjVhLjc1Ljc1IDAgMSAwIDAtMS41Ljc1Ljc1IDAgMCAwIDAgMS41Wm04LjUtNC41YS43NS43NSAwIDEgMCAwLTEuNS43NS43NSAwIDAgMCAwIDEuNVpNNSAzLjI1YS43NS43NSAwIDEgMCAwIC4wMDVWMy4yNVoiIGZpbGw9IiNmZmZmZmYiLz48L3N2Zz4%3D&label=%20&labelColor=a371f7&color=070707"><a/></td>
+<td><a href="https://github.com/metacontroller/metacontroller">Metacontroller<a/></td>
+<td></td>
+</tr>
+<tr>
+<td><a href="https://github.com/metacontroller/metacontroller/pull/468"><img alt="468"  height="25px" src="https://img.shields.io/badge/docs(config)%3A%20Fix%20zap%20log%20level%20typo-070707?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iLTMgLTMgMjIgMjIiPjxnIGlkPSJkZWVkaXRvcl9iZ0NhcnJpZXIiIHN0cm9rZS13aWR0aD0iMCI%2BCiAgICA8cmVjdCBpZD0iZGVlX2NfZSIgeD0iLTMiIHk9Ii0zIiB3aWR0aD0iMjIiIGhlaWdodD0iMjIiIHJ4PSIwIiBmaWxsPSIjYTM3MWY3IiBzdHJva2V3aWR0aD0iMCIvPgogIDwvZz48cGF0aCBkPSJNNS40NSA1LjE1NEE0LjI1IDQuMjUgMCAwIDAgOS4yNSA3LjVoMS4zNzhhMi4yNTEgMi4yNTEgMCAxIDEgMCAxLjVIOS4yNUE1LjczNCA1LjczNCAwIDAgMSA1IDcuMTIzdjMuNTA1YTIuMjUgMi4yNSAwIDEgMS0xLjUgMFY1LjM3MmEyLjI1IDIuMjUgMCAxIDEgMS45NS0uMjE4Wk00LjI1IDEzLjVhLjc1Ljc1IDAgMSAwIDAtMS41Ljc1Ljc1IDAgMCAwIDAgMS41Wm04LjUtNC41YS43NS43NSAwIDEgMCAwLTEuNS43NS43NSAwIDAgMCAwIDEuNVpNNSAzLjI1YS43NS43NSAwIDEgMCAwIC4wMDVWMy4yNVoiIGZpbGw9IiNmZmZmZmYiLz48L3N2Zz4%3D&label=%20&labelColor=a371f7&color=070707"><a/></td>
+<td><a href="https://github.com/metacontroller/metacontroller">Metacontroller<a/></td>
+<td></td>
+</tr>
+<tr>
+<td><a href="https://github.com/metacontroller/metacontroller/pull/442"><img alt="442"  height="25px" src="https://img.shields.io/badge/feat%3A%20Add%20leader%20election-070707?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iLTMgLTMgMjIgMjIiPjxnIGlkPSJkZWVkaXRvcl9iZ0NhcnJpZXIiIHN0cm9rZS13aWR0aD0iMCI%2BCiAgICA8cmVjdCBpZD0iZGVlX2NfZSIgeD0iLTMiIHk9Ii0zIiB3aWR0aD0iMjIiIGhlaWdodD0iMjIiIHJ4PSIwIiBmaWxsPSIjYTM3MWY3IiBzdHJva2V3aWR0aD0iMCIvPgogIDwvZz48cGF0aCBkPSJNNS40NSA1LjE1NEE0LjI1IDQuMjUgMCAwIDAgOS4yNSA3LjVoMS4zNzhhMi4yNTEgMi4yNTEgMCAxIDEgMCAxLjVIOS4yNUE1LjczNCA1LjczNCAwIDAgMSA1IDcuMTIzdjMuNTA1YTIuMjUgMi4yNSAwIDEgMS0xLjUgMFY1LjM3MmEyLjI1IDIuMjUgMCAxIDEgMS45NS0uMjE4Wk00LjI1IDEzLjVhLjc1Ljc1IDAgMSAwIDAtMS41Ljc1Ljc1IDAgMCAwIDAgMS41Wm04LjUtNC41YS43NS43NSAwIDEgMCAwLTEuNS43NS43NSAwIDAgMCAwIDEuNVpNNSAzLjI1YS43NS43NSAwIDEgMCAwIC4wMDVWMy4yNVoiIGZpbGw9IiNmZmZmZmYiLz48L3N2Zz4%3D&label=%20&labelColor=a371f7&color=070707"><a/></td>
+<td><a href="https://github.com/metacontroller/metacontroller">Metacontroller<a/></td>
+<td></td>
+</tr>
+<tr>
+<td><a href="https://github.com/metacontroller/metacontroller/pull/441"><img alt="441"  height="25px" src="https://img.shields.io/badge/chore%3A%20fix%20typo%20from%20adit%20to%20edit-070707?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iLTMgLTMgMjIgMjIiPjxnIGlkPSJkZWVkaXRvcl9iZ0NhcnJpZXIiIHN0cm9rZS13aWR0aD0iMCI%2BCiAgICA8cmVjdCBpZD0iZGVlX2NfZSIgeD0iLTMiIHk9Ii0zIiB3aWR0aD0iMjIiIGhlaWdodD0iMjIiIHJ4PSIwIiBmaWxsPSIjYTM3MWY3IiBzdHJva2V3aWR0aD0iMCIvPgogIDwvZz48cGF0aCBkPSJNNS40NSA1LjE1NEE0LjI1IDQuMjUgMCAwIDAgOS4yNSA3LjVoMS4zNzhhMi4yNTEgMi4yNTEgMCAxIDEgMCAxLjVIOS4yNUE1LjczNCA1LjczNCAwIDAgMSA1IDcuMTIzdjMuNTA1YTIuMjUgMi4yNSAwIDEgMS0xLjUgMFY1LjM3MmEyLjI1IDIuMjUgMCAxIDEgMS45NS0uMjE4Wk00LjI1IDEzLjVhLjc1Ljc1IDAgMSAwIDAtMS41Ljc1Ljc1IDAgMCAwIDAgMS41Wm04LjUtNC41YS43NS43NSAwIDEgMCAwLTEuNS43NS43NSAwIDAgMCAwIDEuNVpNNSAzLjI1YS43NS43NSAwIDEgMCAwIC4wMDVWMy4yNVoiIGZpbGw9IiNmZmZmZmYiLz48L3N2Zz4%3D&label=%20&labelColor=a371f7&color=070707"><a/></td>
+<td><a href="https://github.com/metacontroller/metacontroller">Metacontroller<a/></td>
+<td></td>
+</tr>
+<tr>
+<td><a href="https://github.com/metacontroller/metacontroller/pull/433"><img alt="433"  height="25px" src="https://img.shields.io/badge/chore(codecov)%3A%20Add%20condition%20repository%20is%20metacontroller%20to%20run-070707?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iLTMgLTMgMjIgMjIiPjxnIGlkPSJkZWVkaXRvcl9iZ0NhcnJpZXIiIHN0cm9rZS13aWR0aD0iMCI%2BCiAgICA8cmVjdCBpZD0iZGVlX2NfZSIgeD0iLTMiIHk9Ii0zIiB3aWR0aD0iMjIiIGhlaWdodD0iMjIiIHJ4PSIwIiBmaWxsPSIjYTM3MWY3IiBzdHJva2V3aWR0aD0iMCIvPgogIDwvZz48cGF0aCBkPSJNNS40NSA1LjE1NEE0LjI1IDQuMjUgMCAwIDAgOS4yNSA3LjVoMS4zNzhhMi4yNTEgMi4yNTEgMCAxIDEgMCAxLjVIOS4yNUE1LjczNCA1LjczNCAwIDAgMSA1IDcuMTIzdjMuNTA1YTIuMjUgMi4yNSAwIDEgMS0xLjUgMFY1LjM3MmEyLjI1IDIuMjUgMCAxIDEgMS45NS0uMjE4Wk00LjI1IDEzLjVhLjc1Ljc1IDAgMSAwIDAtMS41Ljc1Ljc1IDAgMCAwIDAgMS41Wm04LjUtNC41YS43NS43NSAwIDEgMCAwLTEuNS43NS43NSAwIDAgMCAwIDEuNVpNNSAzLjI1YS43NS43NSAwIDEgMCAwIC4wMDVWMy4yNVoiIGZpbGw9IiNmZmZmZmYiLz48L3N2Zz4%3D&label=%20&labelColor=a371f7&color=070707"><a/></td>
+<td><a href="https://github.com/metacontroller/metacontroller">Metacontroller<a/></td>
+<td></td>
+</tr>
+<tr>
+<td><a href="https://github.com/metacontroller/metacontroller/pull/423"><img alt="423"  height="25px" src="https://img.shields.io/badge/feat%3A%20Add%20pprof%20to%20enable%20profiling-070707?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iLTMgLTMgMjIgMjIiPjxnIGlkPSJkZWVkaXRvcl9iZ0NhcnJpZXIiIHN0cm9rZS13aWR0aD0iMCI%2BCiAgICA8cmVjdCBpZD0iZGVlX2NfZSIgeD0iLTMiIHk9Ii0zIiB3aWR0aD0iMjIiIGhlaWdodD0iMjIiIHJ4PSIwIiBmaWxsPSIjYTM3MWY3IiBzdHJva2V3aWR0aD0iMCIvPgogIDwvZz48cGF0aCBkPSJNNS40NSA1LjE1NEE0LjI1IDQuMjUgMCAwIDAgOS4yNSA3LjVoMS4zNzhhMi4yNTEgMi4yNTEgMCAxIDEgMCAxLjVIOS4yNUE1LjczNCA1LjczNCAwIDAgMSA1IDcuMTIzdjMuNTA1YTIuMjUgMi4yNSAwIDEgMS0xLjUgMFY1LjM3MmEyLjI1IDIuMjUgMCAxIDEgMS45NS0uMjE4Wk00LjI1IDEzLjVhLjc1Ljc1IDAgMSAwIDAtMS41Ljc1Ljc1IDAgMCAwIDAgMS41Wm04LjUtNC41YS43NS43NSAwIDEgMCAwLTEuNS43NS43NSAwIDAgMCAwIDEuNVpNNSAzLjI1YS43NS43NSAwIDEgMCAwIC4wMDVWMy4yNVoiIGZpbGw9IiNmZmZmZmYiLz48L3N2Zz4%3D&label=%20&labelColor=a371f7&color=070707"><a/></td>
+<td><a href="https://github.com/metacontroller/metacontroller">Metacontroller<a/></td>
+<td></td>
+</tr>
+
+<tr>
+<td><a href="https://github.com/metacontroller/metacontroller/pull/416"><img alt="416"  height="25px" src="https://img.shields.io/badge/docs%3A%20Add%20disable%20serving%20metrics%20info%20if%20port%200-070707?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iLTMgLTMgMjIgMjIiPjxnIGlkPSJkZWVkaXRvcl9iZ0NhcnJpZXIiIHN0cm9rZS13aWR0aD0iMCI%2BCiAgICA8cmVjdCBpZD0iZGVlX2NfZSIgeD0iLTMiIHk9Ii0zIiB3aWR0aD0iMjIiIGhlaWdodD0iMjIiIHJ4PSIwIiBmaWxsPSIjYTM3MWY3IiBzdHJva2V3aWR0aD0iMCIvPgogIDwvZz48cGF0aCBkPSJNNS40NSA1LjE1NEE0LjI1IDQuMjUgMCAwIDAgOS4yNSA3LjVoMS4zNzhhMi4yNTEgMi4yNTEgMCAxIDEgMCAxLjVIOS4yNUE1LjczNCA1LjczNCAwIDAgMSA1IDcuMTIzdjMuNTA1YTIuMjUgMi4yNSAwIDEgMS0xLjUgMFY1LjM3MmEyLjI1IDIuMjUgMCAxIDEgMS45NS0uMjE4Wk00LjI1IDEzLjVhLjc1Ljc1IDAgMSAwIDAtMS41Ljc1Ljc1IDAgMCAwIDAgMS41Wm04LjUtNC41YS43NS43NSAwIDEgMCAwLTEuNS43NS43NSAwIDAgMCAwIDEuNVpNNSAzLjI1YS43NS43NSAwIDEgMCAwIC4wMDVWMy4yNVoiIGZpbGw9IiNmZmZmZmYiLz48L3N2Zz4%3D&label=%20&labelColor=a371f7&color=070707"><a/></td>
+<td><a href="https://github.com/metacontroller/metacontroller">Metacontroller<a/></td>
+<td></td>
+</tr>
+<tr>
+<td><a href="https://github.com/metacontroller/metacontroller/pull/408"><img alt="408"  height="25px" src="https://img.shields.io/badge/chore(codecov)%3A%20Update%20github%20action%20to%20latest%20version-070707?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iLTMgLTMgMjIgMjIiPjxnIGlkPSJkZWVkaXRvcl9iZ0NhcnJpZXIiIHN0cm9rZS13aWR0aD0iMCI%2BCiAgICA8cmVjdCBpZD0iZGVlX2NfZSIgeD0iLTMiIHk9Ii0zIiB3aWR0aD0iMjIiIGhlaWdodD0iMjIiIHJ4PSIwIiBmaWxsPSIjYTM3MWY3IiBzdHJva2V3aWR0aD0iMCIvPgogIDwvZz48cGF0aCBkPSJNNS40NSA1LjE1NEE0LjI1IDQuMjUgMCAwIDAgOS4yNSA3LjVoMS4zNzhhMi4yNTEgMi4yNTEgMCAxIDEgMCAxLjVIOS4yNUE1LjczNCA1LjczNCAwIDAgMSA1IDcuMTIzdjMuNTA1YTIuMjUgMi4yNSAwIDEgMS0xLjUgMFY1LjM3MmEyLjI1IDIuMjUgMCAxIDEgMS45NS0uMjE4Wk00LjI1IDEzLjVhLjc1Ljc1IDAgMSAwIDAtMS41Ljc1Ljc1IDAgMCAwIDAgMS41Wm04LjUtNC41YS43NS43NSAwIDEgMCAwLTEuNS43NS43NSAwIDAgMCAwIDEuNVpNNSAzLjI1YS43NS43NSAwIDEgMCAwIC4wMDVWMy4yNVoiIGZpbGw9IiNmZmZmZmYiLz48L3N2Zz4%3D&label=%20&labelColor=a371f7&color=070707"><a/></td>
+<td><a href="https://github.com/metacontroller/metacontroller">Metacontroller<a/></td>
+<td></td>
+</tr>
+<tr>
+<td><a href="https://github.com/metacontroller/metacontroller/pull/406"><img alt="406"  height="25px" src="https://img.shields.io/badge/fix(discovery)%3A%20Do%20not%20fail%20if%20missing%20a%20subset%20of%20resources%20during%20API%20discover-070707?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iLTMgLTMgMjIgMjIiPjxnIGlkPSJkZWVkaXRvcl9iZ0NhcnJpZXIiIHN0cm9rZS13aWR0aD0iMCI%2BCiAgICA8cmVjdCBpZD0iZGVlX2NfZSIgeD0iLTMiIHk9Ii0zIiB3aWR0aD0iMjIiIGhlaWdodD0iMjIiIHJ4PSIwIiBmaWxsPSIjYTM3MWY3IiBzdHJva2V3aWR0aD0iMCIvPgogIDwvZz48cGF0aCBkPSJNNS40NSA1LjE1NEE0LjI1IDQuMjUgMCAwIDAgOS4yNSA3LjVoMS4zNzhhMi4yNTEgMi4yNTEgMCAxIDEgMCAxLjVIOS4yNUE1LjczNCA1LjczNCAwIDAgMSA1IDcuMTIzdjMuNTA1YTIuMjUgMi4yNSAwIDEgMS0xLjUgMFY1LjM3MmEyLjI1IDIuMjUgMCAxIDEgMS45NS0uMjE4Wk00LjI1IDEzLjVhLjc1Ljc1IDAgMSAwIDAtMS41Ljc1Ljc1IDAgMCAwIDAgMS41Wm04LjUtNC41YS43NS43NSAwIDEgMCAwLTEuNS43NS43NSAwIDAgMCAwIDEuNVpNNSAzLjI1YS43NS43NSAwIDEgMCAwIC4wMDVWMy4yNVoiIGZpbGw9IiNmZmZmZmYiLz48L3N2Zz4%3D&label=%20&labelColor=a371f7&color=070707"><a/></td>
+<td><a href="https://github.com/metacontroller/metacontroller">Metacontroller<a/></td>
+<td></td>
+</tr>
+<tr>
+<td><a href="https://github.com/metacontroller/metacontroller/pull/387"><img alt="387"  height="25px" src="https://img.shields.io/badge/feat%3A%20Add%20K8s%20API%20communication%20check%20on%20startup-070707?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iLTMgLTMgMjIgMjIiPjxnIGlkPSJkZWVkaXRvcl9iZ0NhcnJpZXIiIHN0cm9rZS13aWR0aD0iMCI%2BCiAgICA8cmVjdCBpZD0iZGVlX2NfZSIgeD0iLTMiIHk9Ii0zIiB3aWR0aD0iMjIiIGhlaWdodD0iMjIiIHJ4PSIwIiBmaWxsPSIjYTM3MWY3IiBzdHJva2V3aWR0aD0iMCIvPgogIDwvZz48cGF0aCBkPSJNNS40NSA1LjE1NEE0LjI1IDQuMjUgMCAwIDAgOS4yNSA3LjVoMS4zNzhhMi4yNTEgMi4yNTEgMCAxIDEgMCAxLjVIOS4yNUE1LjczNCA1LjczNCAwIDAgMSA1IDcuMTIzdjMuNTA1YTIuMjUgMi4yNSAwIDEgMS0xLjUgMFY1LjM3MmEyLjI1IDIuMjUgMCAxIDEgMS45NS0uMjE4Wk00LjI1IDEzLjVhLjc1Ljc1IDAgMSAwIDAtMS41Ljc1Ljc1IDAgMCAwIDAgMS41Wm04LjUtNC41YS43NS43NSAwIDEgMCAwLTEuNS43NS43NSAwIDAgMCAwIDEuNVpNNSAzLjI1YS43NS43NSAwIDEgMCAwIC4wMDVWMy4yNVoiIGZpbGw9IiNmZmZmZmYiLz48L3N2Zz4%3D&label=%20&labelColor=a371f7&color=070707"><a/></td>
+<td><a href="https://github.com/metacontroller/metacontroller">Metacontroller<a/></td>
+<td></td>
+</tr>
+<tr>
+<td><a href="https://github.com/metacontroller/metacontroller/pull/376"><img alt="376"  height="25px" src="https://img.shields.io/badge/fix(controller)%3A%20Ignore%20404/409%20error%20responses-070707?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iLTMgLTMgMjIgMjIiPjxnIGlkPSJkZWVkaXRvcl9iZ0NhcnJpZXIiIHN0cm9rZS13aWR0aD0iMCI%2BCiAgICA8cmVjdCBpZD0iZGVlX2NfZSIgeD0iLTMiIHk9Ii0zIiB3aWR0aD0iMjIiIGhlaWdodD0iMjIiIHJ4PSIwIiBmaWxsPSIjYTM3MWY3IiBzdHJva2V3aWR0aD0iMCIvPgogIDwvZz48cGF0aCBkPSJNNS40NSA1LjE1NEE0LjI1IDQuMjUgMCAwIDAgOS4yNSA3LjVoMS4zNzhhMi4yNTEgMi4yNTEgMCAxIDEgMCAxLjVIOS4yNUE1LjczNCA1LjczNCAwIDAgMSA1IDcuMTIzdjMuNTA1YTIuMjUgMi4yNSAwIDEgMS0xLjUgMFY1LjM3MmEyLjI1IDIuMjUgMCAxIDEgMS45NS0uMjE4Wk00LjI1IDEzLjVhLjc1Ljc1IDAgMSAwIDAtMS41Ljc1Ljc1IDAgMCAwIDAgMS41Wm04LjUtNC41YS43NS43NSAwIDEgMCAwLTEuNS43NS43NSAwIDAgMCAwIDEuNVpNNSAzLjI1YS43NS43NSAwIDEgMCAwIC4wMDVWMy4yNVoiIGZpbGw9IiNmZmZmZmYiLz48L3N2Zz4%3D&label=%20&labelColor=a371f7&color=070707"><a/></td>
+<td><a href="https://github.com/metacontroller/metacontroller">Metacontroller<a/></td>
+<td></td>
+</tr>
+<tr>
+<td><a href="https://github.com/metacontroller/metacontroller/pull/374"><img alt="374"  height="25px" src="https://img.shields.io/badge/docs(guide)%3A%20Fix%20typo%20for%20events%20qps%20and%20burst-070707?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iLTMgLTMgMjIgMjIiPjxnIGlkPSJkZWVkaXRvcl9iZ0NhcnJpZXIiIHN0cm9rZS13aWR0aD0iMCI%2BCiAgICA8cmVjdCBpZD0iZGVlX2NfZSIgeD0iLTMiIHk9Ii0zIiB3aWR0aD0iMjIiIGhlaWdodD0iMjIiIHJ4PSIwIiBmaWxsPSIjYTM3MWY3IiBzdHJva2V3aWR0aD0iMCIvPgogIDwvZz48cGF0aCBkPSJNNS40NSA1LjE1NEE0LjI1IDQuMjUgMCAwIDAgOS4yNSA3LjVoMS4zNzhhMi4yNTEgMi4yNTEgMCAxIDEgMCAxLjVIOS4yNUE1LjczNCA1LjczNCAwIDAgMSA1IDcuMTIzdjMuNTA1YTIuMjUgMi4yNSAwIDEgMS0xLjUgMFY1LjM3MmEyLjI1IDIuMjUgMCAxIDEgMS45NS0uMjE4Wk00LjI1IDEzLjVhLjc1Ljc1IDAgMSAwIDAtMS41Ljc1Ljc1IDAgMCAwIDAgMS41Wm04LjUtNC41YS43NS43NSAwIDEgMCAwLTEuNS43NS43NSAwIDAgMCAwIDEuNVpNNSAzLjI1YS43NS43NSAwIDEgMCAwIC4wMDVWMy4yNVoiIGZpbGw9IiNmZmZmZmYiLz48L3N2Zz4%3D&label=%20&labelColor=a371f7&color=070707"><a/></td>
+<td><a href="https://github.com/metacontroller/metacontroller">Metacontroller<a/></td>
+<td></td>
+</tr>
+
+
 </table>
-
-
-
-<!--
-https://github.com/metacontroller/metacontroller/pull/547
-https://github.com/metacontroller/metacontroller/pull/546
-https://github.com/metacontroller/metacontroller/pull/534
-https://github.com/metacontroller/metacontroller/pull/531
-https://github.com/metacontroller/metacontroller/pull/484
-https://github.com/metacontroller/metacontroller/pull/483
-https://github.com/metacontroller/metacontroller/pull/478
-https://github.com/metacontroller/metacontroller/pull/477
-https://github.com/metacontroller/metacontroller/pull/468
-https://github.com/metacontroller/metacontroller/pull/442
-https://github.com/metacontroller/metacontroller/pull/441
-https://github.com/metacontroller/metacontroller/pull/433
-https://github.com/metacontroller/metacontroller/pull/423
-https://github.com/metacontroller/metacontroller/pull/416
-https://github.com/metacontroller/metacontroller/pull/408
-https://github.com/metacontroller/metacontroller/pull/406
-https://github.com/metacontroller/metacontroller/pull/387
-https://github.com/metacontroller/metacontroller/pull/376
-https://github.com/metacontroller/metacontroller/pull/374
--->
