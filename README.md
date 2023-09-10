@@ -1,3 +1,16 @@
+<h1 align='center'>
+  Mike Smith
+</h1>
+<p align="center">
+I like to code with down-to-earth people who work together to build a great product and challenge each other to grow.
+</p>
+
+<p align='center'>
+  <a href="https://www.linkedin.com/in/mikesmithli/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;
+</p>
+
 ### Neovim Projects
 <a href="https://github.com/mikesmithgh/kitty-scrollback.nvim">
   <img align="center" width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=mikesmithgh&repo=kitty-scrollback.nvim&title_color=c7c7c7&text_color=968c81&icon_color=8faa80&border_color=504945&bg_color=070707" />
