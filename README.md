@@ -1,13 +1,38 @@
-[![mikesmithgh](https://github-readme-stats.vercel.app/api?username=mikesmithgh&title_color=c7c7c7&text_color=968c81&icon_color=8faa80&border_color=504945&bg_color=070707)](https://github.com/mikesmithgh)
-
 ### Neovim Projects
-[![kitty-scrollback.nvim](https://github-readme-stats.vercel.app/api/pin/?username=mikesmithgh&repo=kitty-scrollback.nvim&title_color=c7c7c7&text_color=968c81&icon_color=8faa80&border_color=504945&bg_color=070707)](https://github.com/mikesmithgh/kitty-scrollback.nvim)
-[![render.nvim](https://github-readme-stats.vercel.app/api/pin/?username=mikesmithgh&repo=render.nvim&title_color=c7c7c7&text_color=968c81&icon_color=8faa80&border_color=504945&bg_color=070707)](https://github.com/mikesmithgh/render.nvim)
-[![gruvsquirrel.nvim](https://github-readme-stats.vercel.app/api/pin/?username=mikesmithgh&repo=gruvsquirrel.nvim&title_color=c7c7c7&text_color=968c81&icon_color=8faa80&border_color=504945&bg_color=070707)](https://github.com/mikesmithgh/gruvsquirrel.nvim)
-[![borderline.nvim](https://github-readme-stats.vercel.app/api/pin/?username=mikesmithgh&repo=borderline.nvim&title_color=c7c7c7&text_color=968c81&icon_color=8faa80&border_color=504945&bg_color=070707)](https://github.com/mikesmithgh/borderline.nvim)
+<a href="https://github.com/mikesmithgh/kitty-scrollback.nvim">
+  <img align="center" width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=mikesmithgh&repo=kitty-scrollback.nvim&title_color=c7c7c7&text_color=968c81&icon_color=8faa80&border_color=504945&bg_color=070707" />
+</a>
+<a href="https://github.com/mikesmithgh/render.nvim">
+  <img align="center" width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=mikesmithgh&repo=render.nvim&title_color=c7c7c7&text_color=968c81&icon_color=8faa80&border_color=504945&bg_color=070707" />
+</a>
+
+<a href="https://github.com/mikesmithgh/gruvsquirrel.nvim">
+  <img align="center" width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=mikesmithgh&repo=gruvsquirrel.nvim&title_color=c7c7c7&text_color=968c81&icon_color=8faa80&border_color=504945&bg_color=070707" />
+</a>
+<a href="https://github.com/mikesmithgh/borderline.nvim">
+  <img align="center" width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=mikesmithgh&repo=borderline.nvim&title_color=c7c7c7&text_color=968c81&icon_color=8faa80&border_color=504945&bg_color=070707" />
+</a>
 
 ### Misc Projects
-[![pdubs](https://github-readme-stats.vercel.app/api/pin/?username=mikesmithgh&repo=pdubs&title_color=c7c7c7&text_color=968c81&icon_color=8faa80&border_color=504945&bg_color=070707)](https://github.com/mikesmithgh/pdubs)
+<a href="https://github.com/mikesmithgh/pdubs">
+  <img align="center" width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=mikesmithgh&repo=pdubs&title_color=c7c7c7&text_color=968c81&icon_color=8faa80&border_color=504945&bg_color=070707" />
+</a>
+<a href="https://github.com/mikesmithgh/PanePane">
+  <img align="center" width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=mikesmithgh&repo=PanePane&title_color=c7c7c7&text_color=968c81&icon_color=8faa80&border_color=504945&bg_color=070707" />
+</a>
+<a href="https://github.com/mikesmithgh/vimpromptu">
+  <img align="center" width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=mikesmithgh&repo=vimpromptu&title_color=c7c7c7&text_color=968c81&icon_color=8faa80&border_color=504945&bg_color=070707" />
+</a>
+<a href="https://github.com/mikesmithgh/ugbi">
+  <img align="center" width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=mikesmithgh&repo=ugbi&title_color=c7c7c7&text_color=968c81&icon_color=8faa80&border_color=504945&bg_color=070707" />
+</a>
+<a href="https://github.com/mikesmithgh/bgps">
+  <img align="center" width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=mikesmithgh&repo=bgps&title_color=c7c7c7&text_color=968c81&icon_color=8faa80&border_color=504945&bg_color=070707" />
+</a>
+<a href="https://github.com/mikesmithgh/fzcf">
+  <img align="center" width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=mikesmithgh&repo=fzcf&title_color=c7c7c7&text_color=968c81&icon_color=8faa80&border_color=504945&bg_color=070707" />
+</a>
+
 
 ### Open Source Contributions
 <table>
@@ -182,3 +207,4 @@
     <td></td>
   </tr>
 </table>
+<a href="#"><img src="https://github-readme-stats.vercel.app/api?username=mikesmithgh&show_icons=true&count_private=true&title_color=c7c7c7&text_color=968c81&icon_color=8faa80&border_color=504945&bg_color=070707&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" width="94%"></a>
