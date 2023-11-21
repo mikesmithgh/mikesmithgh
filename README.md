@@ -1,6 +1,7 @@
 <h1 align='center'>
   Mike Smith
 </h1>
+
 <p align="center">
 I like to code with down-to-earth people who work together to build a great product and challenge each other to grow.
 </p>
@@ -10,6 +11,11 @@ I like to code with down-to-earth people who work together to build a great prod
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
+
+[![mike_at_nvimconf](https://github.com/mikesmithgh/mikesmithgh/assets/10135646/2e356e56-611b-4353-adbf-31dfa9e7dd8f)](https://neovimconf.live/speakers/mikesmith/)
+
+> [!IMPORTANT]\
+> Check out my lighting talk on Dec 8<sup>th</sup> at [Neovim Conf 2023](https://neovimconf.live/speakers/mikesmith/) about [kitty-scrollback.nvim](https://github.com/mikesmithgh/kitty-scrollback.nvim)!
 
 ### Neovim Projects
 <a href="https://github.com/mikesmithgh/kitty-scrollback.nvim">
