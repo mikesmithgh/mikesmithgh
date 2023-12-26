@@ -12,10 +12,8 @@ I like to code with down-to-earth people who work together to build a great prod
   </a>
 </p>
 
-[![mike_at_nvimconf](https://github.com/mikesmithgh/mikesmithgh/assets/10135646/2e356e56-611b-4353-adbf-31dfa9e7dd8f)](https://neovimconf.live/speakers/mikesmith/)
-
-> [!IMPORTANT]\
-> Check out my lighting talk on Dec 8<sup>th</sup> at [Neovim Conf 2023](https://neovimconf.live/speakers/mikesmith/) about [kitty-scrollback.nvim](https://github.com/mikesmithgh/kitty-scrollback.nvim)!
+### Check out my ⚡️ Lightning Talk @ Neovim Conf 2023 [Developing kitty-scrollback.nvim](https://youtu.be/9TINe0J9rNg?si=_ISKqAQVS2NCuSRF)!
+[![Developing kitty-scrollback.nvim NeovimConf 2023](https://github.com/mikesmithgh/kitty-scrollback.nvim/assets/10135646/d103a326-dfac-4948-8f15-d2885e646a6c)](https://www.youtube.com/watch?v=9TINe0J9rNg)
 
 ### Neovim Projects
 <a href="https://github.com/mikesmithgh/kitty-scrollback.nvim">
