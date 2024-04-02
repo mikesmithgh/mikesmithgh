@@ -31,11 +31,8 @@ I like to code with down-to-earth people who work together to build a great prod
 </a>
 
 ### Misc Projects
-<a href="https://github.com/mikesmithgh/pdubs">
-  <img align="center" width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=mikesmithgh&repo=pdubs&title_color=c7c7c7&text_color=968c81&icon_color=8faa80&border_color=504945&bg_color=070707" />
-</a>
-<a href="https://github.com/mikesmithgh/PanePane">
-  <img align="center" width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=mikesmithgh&repo=PanePane&title_color=c7c7c7&text_color=968c81&icon_color=8faa80&border_color=504945&bg_color=070707" />
+<a href="https://github.com/mikesmithgh/git-prompt-string">
+  <img align="center" width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=mikesmithgh&repo=git-prompt-string&title_color=c7c7c7&text_color=968c81&icon_color=8faa80&border_color=504945&bg_color=070707" />
 </a>
 <a href="https://github.com/mikesmithgh/vimpromptu">
   <img align="center" width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=mikesmithgh&repo=vimpromptu&title_color=c7c7c7&text_color=968c81&icon_color=8faa80&border_color=504945&bg_color=070707" />
@@ -43,12 +40,16 @@ I like to code with down-to-earth people who work together to build a great prod
 <a href="https://github.com/mikesmithgh/ugbi">
   <img align="center" width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=mikesmithgh&repo=ugbi&title_color=c7c7c7&text_color=968c81&icon_color=8faa80&border_color=504945&bg_color=070707" />
 </a>
-<a href="https://github.com/mikesmithgh/bgps">
-  <img align="center" width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=mikesmithgh&repo=bgps&title_color=c7c7c7&text_color=968c81&icon_color=8faa80&border_color=504945&bg_color=070707" />
-</a>
 <a href="https://github.com/mikesmithgh/fzcf">
   <img align="center" width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=mikesmithgh&repo=fzcf&title_color=c7c7c7&text_color=968c81&icon_color=8faa80&border_color=504945&bg_color=070707" />
 </a>
+<a href="https://github.com/mikesmithgh/pdubs">
+  <img align="center" width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=mikesmithgh&repo=pdubs&title_color=c7c7c7&text_color=968c81&icon_color=8faa80&border_color=504945&bg_color=070707" />
+</a>
+<a href="https://github.com/mikesmithgh/PanePane">
+  <img align="center" width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=mikesmithgh&repo=PanePane&title_color=c7c7c7&text_color=968c81&icon_color=8faa80&border_color=504945&bg_color=070707" />
+</a>
+
 
 ### Open Source Contributions
 <table>
