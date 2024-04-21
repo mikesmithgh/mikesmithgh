@@ -23,9 +23,13 @@ I like to code with down-to-earth people who work together to build a great prod
   <img align="center" width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=mikesmithgh&repo=render.nvim&title_color=c7c7c7&text_color=968c81&icon_color=8faa80&border_color=504945&bg_color=070707" />
 </a>
 
+<a href="https://github.com/mikesmithgh/git-prompt-string-lualine.nvim">
+  <img align="center" width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=mikesmithgh&repo=git-prompt-string-lualine.nvim&title_color=c7c7c7&text_color=968c81&icon_color=8faa80&border_color=504945&bg_color=070707" />
+</a>
 <a href="https://github.com/mikesmithgh/gruvsquirrel.nvim">
   <img align="center" width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=mikesmithgh&repo=gruvsquirrel.nvim&title_color=c7c7c7&text_color=968c81&icon_color=8faa80&border_color=504945&bg_color=070707" />
 </a>
+
 <a href="https://github.com/mikesmithgh/borderline.nvim">
   <img align="center" width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=mikesmithgh&repo=borderline.nvim&title_color=c7c7c7&text_color=968c81&icon_color=8faa80&border_color=504945&bg_color=070707" />
 </a>
